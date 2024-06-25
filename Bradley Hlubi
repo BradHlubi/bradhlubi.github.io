@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bradley Hlubi - Leadership Coach & Consultant</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #333;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #007BFF;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #007BFF;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+        }
+        footer {
+            background-color: #007BFF;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+        video {
+            max-width: 100%;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Bradley Hlubi</h1>
+        <p>Leadership Coach & Consultant</p>
+    </header>
+    <div class="container">
+        <section id="about">
+            <h2>About Me</h2>
+            <img src="your-photo.jpg" alt="Bradley Hlubi">
+            <p>I am a leadership coach and consultant dedicated to empowering youth and young adults. My work focuses on youth development, fostering entrepreneurs, leaders, and corporate professionals to achieve high success. Through various initiatives, including non-profit work, I engage in sports, arts, and culture to uplift communities.</p>
+        </section>
+        <section id="projects">
+            <h2>Projects</h2>
+            <img src="community-games.jpg" alt="Community Games">
+            <p>I lead several community-driven projects aimed at developing local talent and promoting sports. One of my flagship initiatives is the Community Games, an Olympic-style event that brings together various sports disciplines. I also collaborate with primary and high schools, and business professionals, conducting special workshops to foster growth and development.</p>
+            <video controls>
+                <source src="leadership-coaching.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+        </section>
+        <section id="contact">
+            <h2>Contact Me</h2>
+            <p>You can reach me via WhatsApp at: <strong>[Your WhatsApp Number]</strong></p>
+            <p>Connect with me on:</p>
+            <ul>
+                <li><a href="https://www.linkedin.com/in/[your-linkedin-id]" target="_blank">LinkedIn</a></li>
+                <li><a href="https://www.facebook.com/[your-facebook-id]" target="_blank">Personal Facebook</a></li>
+                <li><a href="https://www.facebook.com/[company-facebook-id]" target="_blank">Company Facebook</a></li>
+            </ul>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2024 Bradley Hlubi. All rights reserved.</p>
+    </footer>
+</body>
+</html>
